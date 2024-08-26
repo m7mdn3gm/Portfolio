@@ -774,14 +774,14 @@ header .content .image img {
         flex-direction: column;
     }
     .contact .main-contact .forms {
-        width: 100%;
+        width: 90%;
         padding-left: 15px;
     }
     .contact .main-contact .forms .two {
         flex-direction: column;
     }
     .contact .main-contact .contact-me {
-        width: 100%;
+        width: 90%;
         margin-right: 0px;
     }
     .contact .main-contact .contact-me ul li {
